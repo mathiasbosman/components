@@ -1,5 +1,19 @@
 # @primer/components
 
+## 23.1.1
+
+### Patch Changes
+
+- [`c50b9f93`](https://github.com/primer/components/commit/c50b9f93402e7898b2a30f6f7fd0159ed40a8e86) [#1059](https://github.com/primer/components/pull/1059) Thanks [@colebemis](https://github.com/colebemis)! - Migrate `Dropdown` to TypeScript
+
+* [`eaeb2389`](https://github.com/primer/components/commit/eaeb2389738c1c366e41ddb7795b03c865359034) [#1055](https://github.com/primer/components/pull/1055) Thanks [@VanAnderson](https://github.com/VanAnderson)! - Migrate `utils` to TypeScript
+
+- [`f11e6ac6`](https://github.com/primer/components/commit/f11e6ac67ff675137e672a33d445678fd3b64b3a) [#1048](https://github.com/primer/components/pull/1048) Thanks [@colebemis](https://github.com/colebemis)! - Migrate `SelectMenu` to TypeScript
+
+* [`bb635a50`](https://github.com/primer/components/commit/bb635a5094baf6821e45a7a03c6582989ee86fd5) [#1058](https://github.com/primer/components/pull/1058) Thanks [@colebemis](https://github.com/colebemis)! - Migrate theme to TypeScript
+
+- [`fabca94e`](https://github.com/primer/components/commit/fabca94ebc3b5429b5c541aeaac6eb508fd5f182) [#1047](https://github.com/primer/components/pull/1047) Thanks [@VanAnderson](https://github.com/VanAnderson)! - Migrate `Pagination` to TypeScript
+
 ## 23.1.0
 
 ### Minor Changes
